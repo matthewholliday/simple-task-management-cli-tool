@@ -1,0 +1,5 @@
+tasks.json
+build/
+dist/
+*.spec
+__pycache__/
